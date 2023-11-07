@@ -3,3 +3,23 @@ body{
     color: blue;
 
 }
+
+body{
+    background-color: black;
+    color: aqua;
+}
+section{
+    background-color: blueviolet;
+}
+article{
+    background-color: peachpuff;
+}
+figure{
+    background-color: rgb(236, 146, 10);
+}
+header{
+    background-color: chartreuse;
+}
+main{
+    background-color: darkolivegreen;
+}
